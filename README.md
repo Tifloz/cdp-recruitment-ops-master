@@ -13,3 +13,15 @@
 - Be smart, but show some work (you do have to create something, no click-deploy to a Node-managed environment, like Heroku, GAE, ...
 
 This result will serve as a base for conversation during the interview.
+
+## How tu use it
+
+### Prerequisites
+- minikube (available with scoop on Windows)
+- Docker
+- kubctl (available with scoop on Windows)
+
+### Run the project
+
+- Launch the build.sh script to build the docker image and create the kube namespace
+- Launch the run.sh script to deploy the app
