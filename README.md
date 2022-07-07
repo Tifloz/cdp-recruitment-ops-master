@@ -25,3 +25,4 @@ This result will serve as a base for conversation during the interview.
 
 - Launch the build.sh script to build the docker image and create the kube namespace
 - Launch the run.sh script to deploy the app
+- Go to the URL provided
